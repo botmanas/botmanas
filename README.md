@@ -14,7 +14,7 @@ I'm a **Cyber Security student** at UWE Bristol with a growing interest in **pen
 - **Tools**: Adobe Photoshop (expert), VS Code, Linux Terminal
 
 ## 🎨 Design Background
-Before diving into cyber security, I worked as a **freelance graphic designer**, specializing in branding and visual content using Adobe Photoshop. This gave me a strong eye for detail—something I now apply in the technical world, especially when analyzing code or looking for vulnerabilities.
+Before diving into cyber security, I worked as a **freelance graphic designer**, specializing in branding and visual content using Adobe Photoshop. This gave me a strong eye for detail something I now apply in the technical world, especially when analyzing code or looking for vulnerabilities.
 
 ## 🎯 Goals
 - Learn ethical hacking and penetration testing tools (Kali Linux, Metasploit, Burp Suite)
